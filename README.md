@@ -17,5 +17,6 @@ output:
     size of list: 120
     size of tuple: 64
 
-<h2>The below are some of my work which can help you design more optimized code</h2>
+## The below are some of my work which can help you design more optimized code
+
 * [Python_Data_Structure_Cheat_Sheet](https://github.com/BhargavKadali39/Python_Data_Structure_Cheat_Sheet)
