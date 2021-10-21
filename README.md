@@ -14,5 +14,5 @@ here we took a list and a tuple let's find out how much memory they consume for 
 
 output:
 
-    size of first object: 120
-    size of second object: 64
+    size of list: 120
+    size of tuple: 64
