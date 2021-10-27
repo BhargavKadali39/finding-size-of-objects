@@ -1,4 +1,4 @@
-# finding-size-of-objects
+# finding-memory-size-of-objects
 Finding how much memory does a object consume.
 
 Today's repo is about finding how much memory a object in python consumes.
